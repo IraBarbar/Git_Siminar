@@ -1,1 +1,2 @@
-# Git_Siminar
+# Git_Seminar
+Привет !
